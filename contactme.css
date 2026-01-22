@@ -1,0 +1,107 @@
+.dap{
+ width:60%;
+height: 27px;
+background-color:grey;
+margin: auto;
+margin-bottom: 20px;
+padding: 10px;
+padding-top: 20px;
+
+}
+.love{
+ height: 30px; 
+  background-color:rgb(132, 132, 190); 
+  font-size:x-large;
+  margin-top: 6px;
+}  
+ .care{
+    height: 30px; 
+  font-size: x-large; 
+  background-color: rgb(163, 144, 90); 
+ }
+ .like{
+    height: 30px;
+    font-size: x-large;
+    background-color:greenyellow ;
+ }
+ .daph{
+    width: 62%;
+    height: 70px;
+    background-color: rgb(122, 161, 148);
+    margin: auto;
+    margin-bottom: 20px;
+ }
+ .av{
+   width:62% ;
+   height:22px ;
+   background-color:lightgray;
+   margin-bottom: 10px;
+   margin-left:285px ;
+ }
+ .avy{
+   width:62% ;
+   height:22px ;
+   background-color: lightgrey;
+   margin-left:285px ;
+   margin-bottom: 10px;
+ }
+ .davy{
+   width: 49%;
+   height:20px ;
+   background-color:white;
+   margin-bottom: 10px;
+   margin-left:142px ;
+ }
+ .daphine{
+   width: 41%;
+   height:22px ;
+   background-color: lightgrey;
+   margin-bottom:10px ;
+   margin-left:284px ;
+ }
+.israel{
+   width: 30%;
+   height: 30px;
+   background-color:white ;
+   margin-bottom:10px ;
+}
+
+.amu{
+   width: 62%;
+   height: 400px;
+   background-color: aquamarine;
+   margin: auto;
+   margin-bottom: 20px;
+
+}
+textarea{
+   width: 61%;
+   height: 150px;
+}
+.av{
+   margin: auto;
+   margin-left: 16px;
+   margin-bottom: 10px;
+}
+.avy{
+   margin: auto;
+
+}
+.davy{
+   margin: auto;
+   margin-left: 19px;
+   width: 62%;
+}
+.denis{
+width: 62%;
+height: 30px;
+background-color: cadetblue;
+margin: auto;
+}
+.denis{
+   text-align: center;
+}
+
+
+
+ 

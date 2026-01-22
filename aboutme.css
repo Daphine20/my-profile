@@ -1,0 +1,92 @@
+.queen{
+width:60%;
+height: 20px;
+background-color: darkgrey;
+margin: auto;
+margin-bottom: 20px;
+padding: 17px;
+padding-left: 10px;
+}
+
+.king{
+    height: 600px;
+    width:60%;
+    background-color:white;
+    margin: auto;
+    margin-bottom: 20px;
+    
+    
+
+}
+.prince{
+    height: 200px;
+    width: 58%;
+    background-color: grey;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.princess{
+    height: 60px;
+    width: 40%;
+    background-color: grey;
+    margin: auto;
+}
+.love{
+  height: 30px; 
+  background-color: rgb(130, 130, 143); 
+  font-size:x-large;
+  margin-top: 6px;
+}
+.care{
+  height: 30px; 
+  font-size: x-large; 
+  background-color: rgb(188, 218, 208);
+}
+.like{
+    height: 30px;
+    font-size: x-large;
+    background-color: rgb(124, 170, 172);
+}
+.davy{
+    height:600px ;
+    width: 50%;
+    background-color: rgb(97, 141, 141);
+    float: left;
+    padding-left: 20px;
+    
+}
+
+.avy{
+    height:600px ;
+    width: 47%;
+    background-color:white;
+    float: right;
+    
+    
+}
+.al{
+    height: 390px;
+    width: 88%;
+    background-color: rgb(103, 125, 165);
+    margin-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.ali{
+    height: 170px ;
+    width: 100%;
+    background-color: rgb(84, 94, 69);
+}
+.princess{
+    font-size: large;
+    padding-left: 370px;
+    width: 38%;
+    padding-top: 20px;
+
+    
+
+}
+
+
+

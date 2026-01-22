@@ -1,0 +1,83 @@
+.dap{
+ width:60%;
+height: 27px;
+background-color: darkgrey;
+margin: auto;
+margin-bottom: 20px;
+padding: 10px;
+padding-top: 20px;
+
+}
+.love{
+ height: 30px; 
+  background-color: rgb(100, 107, 199); 
+  font-size:x-large;
+  margin-top: 6px;
+}  
+ .care{
+    height: 30px; 
+  font-size: x-large; 
+  background-color: rgb(149, 223, 159); 
+ }
+ .like{
+    height: 30px;
+    font-size: x-large;
+    background-color: rgb(141, 68, 68);
+ }
+ .daph{
+   height: 600px;
+    width:60%;
+    background-color:white;
+    margin: auto;
+    margin-bottom: 20px; 
+ }
+.davy{
+   height: 600px;
+   width: 50%;
+   background-color: rgb(86, 102, 69);
+   float: left;
+   padding-left: 10px;
+
+}
+.avy{
+   height:580px;
+   width: 45%;
+   background-color: rgb(122, 154, 212);
+   float: right;
+   padding-left: 15px;
+   padding-top: 20px;
+}
+.daphi{
+   height: 250px;
+   width: 60%;
+   background-color:gray;
+   margin: auto;
+   margin-bottom: 20px;
+}
+.daphin{
+   height: 250px;
+   width: 58%;
+   background-color: rgb(118, 213, 216);
+   margin: auto;
+   margin-bottom: 20px;
+   padding-left: 30px;
+   padding-top: 10px;
+}
+.daphine{
+   height:60px ;
+   width: 37%;
+   background-color: rgba(110, 201, 107, 0.623);
+   margin: auto;
+   font-size:large ;
+   padding-top: 10px;
+   padding-left: 370px;
+
+
+
+}
+
+
+
+
+ 
+
