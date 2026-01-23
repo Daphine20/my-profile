@@ -1,5 +1,5 @@
 .dap{
- width:60%;
+ width:61%;
 height: 27px;
 background-color:grey;
 margin: auto;
@@ -10,26 +10,29 @@ padding-top: 20px;
 }
 .love{
  height: 30px; 
-  background-color:rgb(132, 132, 190); 
+  background-color:lightgrey; 
   font-size:x-large;
   margin-top: 6px;
 }  
  .care{
     height: 30px; 
   font-size: x-large; 
-  background-color: rgb(163, 144, 90); 
+  background-color: lightgrey; 
  }
  .like{
     height: 30px;
     font-size: x-large;
-    background-color:greenyellow ;
+    background-color:lightgrey;
  }
  .daph{
-    width: 62%;
+    width: 61%;
     height: 70px;
-    background-color: rgb(122, 161, 148);
+    background-color: lightgrey;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+    padding-left: 15px;
+    padding-top: 10px;
+   
  }
  .av{
    width:62% ;
@@ -67,11 +70,14 @@ padding-top: 20px;
 }
 
 .amu{
-   width: 62%;
+   width: 61%;
    height: 400px;
-   background-color: aquamarine;
+   background-color: rgb(196, 245, 228);
    margin: auto;
    margin-bottom: 20px;
+   padding-left: 20px;
+   padding-top: 20px;
+   
 
 }
 textarea{
@@ -85,6 +91,7 @@ textarea{
 }
 .avy{
    margin: auto;
+   padding-right: 2px;
 
 }
 .davy{
@@ -94,9 +101,12 @@ textarea{
 }
 .denis{
 width: 62%;
-height: 30px;
+height: 60px;
 background-color: cadetblue;
 margin: auto;
+padding-top: 3px;
+font-size: large;
+
 }
 .denis{
    text-align: center;

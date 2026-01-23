@@ -1,5 +1,5 @@
 .queen{
-width:60%;
+width:58%;
 height: 20px;
 background-color: darkgrey;
 margin: auto;
@@ -20,8 +20,8 @@ padding-left: 10px;
 }
 .prince{
     height: 200px;
-    width: 58%;
-    background-color: grey;
+    width: 59%;
+    background-color:lightgray;
     margin: auto;
     margin-bottom: 20px;
     padding-left: 20px;
@@ -34,24 +34,24 @@ padding-left: 10px;
 }
 .love{
   height: 30px; 
-  background-color: rgb(130, 130, 143); 
+  background-color:lightgray; 
   font-size:x-large;
   margin-top: 6px;
 }
 .care{
   height: 30px; 
   font-size: x-large; 
-  background-color: rgb(188, 218, 208);
+  background-color: lightgrey;
 }
 .like{
     height: 30px;
     font-size: x-large;
-    background-color: rgb(124, 170, 172);
+    background-color: lightgrey;
 }
 .davy{
     height:600px ;
     width: 50%;
-    background-color: rgb(97, 141, 141);
+    background-color: rgb(194, 238, 238);
     float: left;
     padding-left: 20px;
     
@@ -76,12 +76,12 @@ padding-left: 10px;
 .ali{
     height: 170px ;
     width: 100%;
-    background-color: rgb(84, 94, 69);
+    background-color: rgb(203, 221, 175);
 }
 .princess{
     font-size: large;
     padding-left: 370px;
-    width: 38%;
+    width: 36%;
     padding-top: 20px;
 
     
